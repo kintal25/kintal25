@@ -1,16 +1,47 @@
-### Hi there 👋
+## Hi there, I'm Pavel
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-051357?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-yudakov-6a3b51253/)
+[![Telegram](https://img.shields.io/badge/-Telegram-051357?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/kintal)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-051357?style=for-the-badge&logo=GMail&logoColor=white)](mailto:yudakof+github@gmail.com)
 
-<!--
-**kintal25/kintal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 More than **9 years** of wide experience in IT:
+- VBA 😅 -> delphi 😅😅 -> C -> C++ -> C# -> python -> outlook & powerpoint 😅😅😅
+- MySQL -> MSSQL -> Oracle -> PostgreSQL
+- coder -> system analytic -> business analytic -> technical presale -> department head of young coders 😅 -> enterprise architector -> project manager -> business\system analytic -> *we are here*
+- small and active integrator CAD\PLM company -> large subsidiary enterprise of state atom energy corporation -> the biggest fintech company in Russia -> *we are here*
 
-Here are some ideas to get you started:
+### 🛠 Technical Stack
+* Python
+* PostgreSQL/MSSQL/MySQL
+* Git/GitHub/Bitbucket
+* Jira/Redmine/Confluence
+* OpenAPI/Swagger
+* BPMN/UML
+* Grafana/Metabase/Amplitude
+* Win/Linux/Mac
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ I’m currently learning more about
+* Data-driven Product Management
+* Data science and ML
+* Python for serious backend tasks
+* Microservice and cloud-native architecture
+
+### 🎓 Alumni
+[Bauman Moscow State Technical University (BMSTU)](https://bmstu.ru/)
+> September 2009 — June 2015 (5 years 9 months)
+Robotics & Complex Automation Faculty, Computer-aided Design & Engineering (CAD/CAE) systems Department
+
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=00599C)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql&logoColor=FFFFFF)
+
+### 👨‍🏫 Additional training
+* [Go Practice Simulator](https://gopractice.ru/)  
+**Data-driven product management simulator** (training\simulator)
+> August 2022 - October 2022
+
+* Tons of free courses 
+
+***
+### More about me
+- 🗣 Speak Russian (native), Ukranian (almost native), English (intermediate), learning Turkish
+- 📫 How to reach me - https://t.me/kintal
