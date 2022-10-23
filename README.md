@@ -1,5 +1,5 @@
 ## Hi there, I'm Pavel
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-051357?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-yudakov-6a3b51253/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-051357?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-yudakov/)
 [![Telegram](https://img.shields.io/badge/-Telegram-051357?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/kintal)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-051357?style=for-the-badge&logo=GMail&logoColor=white)](mailto:yudakof+github@gmail.com)
 
