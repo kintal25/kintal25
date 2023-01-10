@@ -4,8 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-051357?style=for-the-badge&logo=GMail&logoColor=white)](mailto:yudakof+github@gmail.com)
 
 ### 👨‍💻 More than **9 years** of wide experience in IT:
-- developer -> system analytic -> business analytic -> technical presale -> department head of young developers -> enterprise architector -> project manager -> business\system analyst -> *we are here*
-- small and active integrator CAD\PLM company -> large subsidiary enterprise of state atom energy corporation -> the biggest fintech company in Russia -> *we are here*
+- developer ⟹ business \ system analyst ⟹ technical presale ⟹ department head of young developers ⟹ enterprise architect ⟹ project manager ⟹ business \ system analyst ⟹ *we are here*
+- small and active integrator CAD\PLM company ⟹ large subsidiary enterprise of state atom energy corporation ⟹ the biggest fintech company in Russia ⟹ *we are here*
 
 ### 🛠 Technical Stack
 * VBA 😅 ⟹ delphi 😅😅 ⟹ C ⟹ C++ ⟹ C# ⟹ python ⟹ outlook & powerpoint 😅😅😅
