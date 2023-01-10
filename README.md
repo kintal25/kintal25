@@ -4,16 +4,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-051357?style=for-the-badge&logo=GMail&logoColor=white)](mailto:yudakof+github@gmail.com)
 
 ### 👨‍💻 More than **9 years** of wide experience in IT:
-- VBA 😅 -> delphi 😅😅 -> C -> C++ -> C# -> python -> outlook & powerpoint 😅😅😅
-- MySQL -> MSSQL -> Oracle -> PostgreSQL
-- coder -> system analytic -> business analytic -> technical presale -> department head of young coders 😅 -> enterprise architector -> project manager -> business\system analytic -> *we are here*
+- developer -> system analytic -> business analytic -> technical presale -> department head of young developers -> enterprise architector -> project manager -> business\system analyst -> *we are here*
 - small and active integrator CAD\PLM company -> large subsidiary enterprise of state atom energy corporation -> the biggest fintech company in Russia -> *we are here*
 
 ### 🛠 Technical Stack
-* Python
-* PostgreSQL/MSSQL/MySQL
+* VBA 😅 ⟹ delphi 😅😅 ⟹ C ⟹ C++ ⟹ C# ⟹ python ⟹ outlook & powerpoint 😅😅😅
+* MySQL ⟹ MSSQL ⟹ Oracle ⟹ PostgreSQL
 * Git/GitHub/Bitbucket
-* Jira/Redmine/Confluence
+* Jira/Redmine/Treool/Confluence
 * OpenAPI/Swagger
 * BPMN/UML
 * Grafana/Metabase/Amplitude
@@ -22,7 +20,6 @@
 ### ✨ I’m currently learning more about
 * Data-driven Product Management
 * Data science and ML
-* Python for serious backend tasks
 * Microservice and cloud-native architecture
 
 ### 🎓 Alumni
